@@ -1,0 +1,30 @@
+.heading1 {
+    color: #fabe4c;
+}
+.heading2 {
+    color: #363958;
+}
+.buy {
+    text-decoration: none;
+    color: white;
+    background-color: #a4bc46;
+    padding: 10px;
+    border-radius: 10px;
+}
+.crd {
+    height: 100%;
+}
+.mini {
+    /* background: #ffffff; */
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    margin: 15px 0;
+    padding: 10px;
+}
+.mini img {
+    width: 70px;
+    height: 70px;
+}
+.feature h3 {
+    color: #363958;
+}
